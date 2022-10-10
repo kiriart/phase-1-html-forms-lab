@@ -8,3 +8,8 @@ form * {
   display:inline;
   width: 1%;
 }
+
+iframe {
+  width: 80%;
+  height: 400px; 
+  }
